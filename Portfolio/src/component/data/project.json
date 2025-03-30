@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Studentsenior Website",
+        "imageSrc": "/images/studentsenior.png",
+        "description": "This is a website made with frontend and backend using MERN.",
+        "source": "https://github.com/muskan-sheikh/studentsenior-backend.git"
+    },
+    {
+        "id": 2,
+        "title": "Airbnb",
+        "imageSrc": "/images/airbnb.png",
+        "description": "This is a project made with complete frontend and backend.",
+        "source": "https://github.com/muskan-sheikh/major-project.git"
+    },
+    {
+        "id": 3,
+        "title": "Delicious Food Recipe",
+        "imageSrc": "/images/food-recipe.png",
+        "description": "This is a project made with complete React JS.",
+        "source": "https://github.com/muskan-sheikh/food.git"
+    },
+    {
+        "id": 4,
+        "title": "Movie Search App",
+        "imageSrc": "/images/movie-search.png",
+        "description": "This is a project made with complete React JS.",
+        "source": "https://github.com/muskan-sheikh/moviespace.git"
+    }
+]
